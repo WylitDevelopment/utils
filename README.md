@@ -9,4 +9,6 @@ Basically unuseful bash scripts
 
 #### Usage
 
-```bash fp PORT SERVER ```
+```bash 
+fp <PORT> <HOST> 
+```
